@@ -1,6 +1,9 @@
 
    
-
+.p1{
+   font-size: 70%;
+    
+}
 
     .nav {
         background-color: rgb(9, 41, 69);
@@ -41,7 +44,7 @@ font-size: xx-large;
 
 justify-content: space-evenly;
 transition-duration: 0.5s;
-margin-right: 20px;
+
 }
 a:link,a:visited{
 text-decoration: none;
